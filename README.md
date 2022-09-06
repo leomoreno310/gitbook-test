@@ -50,11 +50,20 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 [vectorizations.md](fundamentals/vectorizations.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% hint style="info" %}
 **Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them. Combine guides with this approach to 'fundamentals' and you're well on your way to great documentation!
 {% endhint %}
 
+### How To Guides
+
+{% content-ref url="how-to-guides/batch-processing.md" %}
+[batch-processing.md](how-to-guides/batch-processing.md)
+{% endcontent-ref %}
+
+{% content-ref url="how-to-guides/tool-resource-allocation.md" %}
+[tool-resource-allocation.md](how-to-guides/tool-resource-allocation.md)
+{% endcontent-ref %}
+
+{% content-ref url="how-to-guides/connecting-s3.md" %}
+[connecting-s3.md](how-to-guides/connecting-s3.md)
+{% endcontent-ref %}
