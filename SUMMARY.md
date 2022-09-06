@@ -4,7 +4,8 @@
 
 ## tutorials
 
-* [Creating your first pipeline](tutorials/creating-your-first-pipeline.md)
+* [Creating your first pipeline](tutorials/creating-your-first-pipeline/README.md)
+  * [this is a subpage](tutorials/creating-your-first-pipeline/this-is-a-subpage.md)
 * [Creating your first task](tutorials/creating-your-first-task.md)
 * [Advanced permissions](tutorials/advanced-permissions.md)
 

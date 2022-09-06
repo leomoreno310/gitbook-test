@@ -2,13 +2,13 @@
 
 For this tutorial we will be creating a simple alignment pipeline using [fastp](https://github.com/OpenGene/fastp) and [bwa](http://bio-bwa.sourceforge.net/bwa.shtml).&#x20;
 
-<figure><img src="../.gitbook/assets/simple_alignment_pipeline (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/simple_alignment_pipeline (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Creating a project
 
 On the top right corner of your Project’s page, hit `Create Project` and enter the corresponding information.
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-08-22 at 11.41.54 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-08-22 at 11.41.54 AM.png" alt=""><figcaption></figcaption></figure>
 
 ```
 Project Name: My first alignment pipeline

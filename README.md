@@ -18,8 +18,8 @@ Check out the Overview section for further information, including Tutorials for 
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="tutorials/creating-your-first-pipeline.md" %}
-[creating-your-first-pipeline.md](tutorials/creating-your-first-pipeline.md)
+{% content-ref url="tutorials/creating-your-first-pipeline/" %}
+[creating-your-first-pipeline](tutorials/creating-your-first-pipeline/)
 {% endcontent-ref %}
 
 {% content-ref url="tutorials/creating-your-first-task.md" %}
