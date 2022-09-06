@@ -1,6 +1,6 @@
 # Almaden Genomics Documentation!
 
-**Almaden Genomics** is a plaform to streamline complex bioinformatics workflows using a graphical user interface. An entire platform where you can focus on the science rather than the code, computing, and infastructure of running large genomic data analysis pipelines. For additional information or free trail/activation of your account, email us at [help@almaden.io](mailto:help%40almaden.io).
+**Almaden Genomics** is a platform to streamline complex bioinformatics workflows using a graphical user interface. An entire platform where you can focus on the science rather than the code, computing, and infrastructure of running large genomic data analysis pipelines. For additional information or free trail/activation of your account, email us at [help@almaden.io](mailto:help%40almaden.io).
 
 Check out the Overview section for further information, including Tutorials for how to create your first bioinformatics workflow.Getting Started
 
@@ -57,3 +57,4 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 {% hint style="info" %}
 **Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them. Combine guides with this approach to 'fundamentals' and you're well on your way to great documentation!
 {% endhint %}
+
