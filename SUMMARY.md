@@ -2,19 +2,24 @@
 
 * [Almaden Genomics Documentation!](README.md)
 
-## Guides
+## tutorials
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [Creating your first pipeline](tutorials/creating-your-first-pipeline.md)
+* [Creating your first task](tutorials/creating-your-first-task.md)
+* [Advanced permissions](tutorials/advanced-permissions.md)
 
 ## Fundamentals
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [Collections](fundamentals/collections.md)
+* [Datasets](fundamentals/datasets.md)
+* [Vectorizations](fundamentals/vectorizations.md)
 
-## Group 1
+## how to guides
 
-* [Test Group](group-1/test-group.md)
+* [Batch Processing](how-to-guides/batch-processing.md)
+* [Tool Resource Allocation](how-to-guides/tool-resource-allocation.md)
+* [Connecting S3](how-to-guides/connecting-s3.md)
+
+## Topic Guides
+
+* [Page 1](topic-guides/page-1.md)
